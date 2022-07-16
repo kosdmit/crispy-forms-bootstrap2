@@ -250,7 +250,6 @@ def test_without_helper(settings):
         assert "uniForm" in html
 
 
-
 def test_invalid_helper(settings):
     template = Template(
         """
