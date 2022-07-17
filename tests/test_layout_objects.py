@@ -439,7 +439,7 @@ class TestBootstrapLayoutObjects:
             )
         )
         assert parse_form(form) == parse_expected(
-            f"test_layout_objects/test_field_with_buttons.html"
+            "test_layout_objects/test_field_with_buttons.html"
         )
 
     def test_hidden_fields(self):

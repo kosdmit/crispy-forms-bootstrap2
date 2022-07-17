@@ -22,7 +22,7 @@ from .forms import (
     SampleForm4,
     SampleForm6,
 )
-from .utils import contains_partial, parse_expected, parse_form
+from .utils import contains_partial
 
 
 def test_invalid_unicode_characters(settings):
