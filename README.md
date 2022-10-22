@@ -12,7 +12,7 @@ Install this plugin using pip:
 `pip install crispy-forms-bootstrap2`
 
 Update your project's settings file to add `crispy_forms` and 
-`crispy-forms-bootstrap2` to your projects `INSTALLED_APPS`. Also set 
+`crispy_forms_bootstrap2` to your projects `INSTALLED_APPS`. Also set 
 `bootstrap` as and allowed template pack and as the default template pack for 
 your project:
 
