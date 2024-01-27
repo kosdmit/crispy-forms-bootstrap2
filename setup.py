@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="crispy-forms-bootstrap2",
-    version="2022.1",
+    version="2024.1",
     packages=find_packages(),
     url="https://github.com/django-crispy-forms/crispy-forms-bootstrap2",
     license="MIT",
