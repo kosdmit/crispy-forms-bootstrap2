@@ -1,4 +1,4 @@
-<div class="accordion-group">
+<div class="accordion-group{% if div.css_class %} {{ div.css_class }}{% endif %}">
     <div class="accordion-heading">
         <a class="accordion-toggle" data-toggle="collapse" data-parent="#{{ div.data_parent }}" href="#{{ div.css_id }}">{{ div.name }}</a>
     </div>
