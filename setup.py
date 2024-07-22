@@ -7,7 +7,7 @@ setup(
     url="https://github.com/django-crispy-forms/crispy-forms-bootstrap2",
     license="MIT",
     description="Django-crispy-forms bootstrap2 templates",
-    install_requires=["django-crispy-forms >= 1.8"],
+    install_requires=["django-crispy-forms >= 2.3"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
